@@ -1,0 +1,259 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Two speeches in Parliament the one concerning religion, and fit men to be chosen for the Assemblie : the other concerning a West Indie Association at a Committee of the whole House in the Parliament / by Sir Benjamin Rudyerd.</title>
+            <author>Rudyerd, Benjamin, Sir, 1572-1658.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A57841</idno>
+            <idno type="STC">Wing R2203</idno>
+            <idno type="STC">ESTC R24505</idno>
+            <idno type="EEBO-CITATION">08223471</idno>
+            <idno type="OCLC">ocm 08223471</idno>
+            <idno type="VID">41105</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A57841)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 41105)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1238:22)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Two speeches in Parliament the one concerning religion, and fit men to be chosen for the Assemblie : the other concerning a West Indie Association at a Committee of the whole House in the Parliament / by Sir Benjamin Rudyerd.</title>
+                  <author>Rudyerd, Benjamin, Sir, 1572-1658.</author>
+               </titleStmt>
+               <extent>[6] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by B.A. for Henry Seile,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the University of Illinois (Urbana-Champaign Campus). Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England.</term>
+               <term>Great Britain --  Politics and government --  1625-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-04</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2011-04</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:41105:1"/>
+            <pb facs="tcp:41105:1" rendition="simple:additions"/>
+            <p>TWO SPEECHES IN PARLIAMENT: The one Concerning <hi>Religion,</hi> and fit men to be choſen for
+the ASSEMBLIE. The other Concerning a <hi>Weſt Jndie</hi> Aſſociation at a Com<g ref="char:EOLhyphen"/>mittee of the
+whole Houſe in the <hi>Parliament,</hi> 21. <hi>Iacobi.</hi>
+            </p>
+            <p>
+               <hi>By Sir</hi> Benjamin Rudyerd, <hi>Knight, Surveyour of His Majeſties Court of Wards and
+Liveries.</hi>
+            </p>
+            <p>LONDON: Printed by <hi>B. A.</hi> for <hi>Henry Seile</hi> at the <hi>Tygers</hi> Head in
+Fleet-ſtreet, 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="speech">
+            <pb facs="tcp:41105:2"/>
+            <pb facs="tcp:41105:2"/>
+            <opener>
+               <salute>Mr. SPEAKER:</salute>
+            </opener>
+            <p>
+               <hi>GOD</hi> hath wonderfully <hi>bleſsed</hi> Us this <hi>Par<g ref="char:EOLhyphen"/>liament</hi> in
+<hi>Diſcoveries,</hi> and <hi>Deliverances,</hi> in <hi>Prevailings</hi> and
+<hi>Succeſses:</hi> what manner of <hi>Men</hi> therfore ought we to be, in
+<hi>Acknowledgment</hi> and <hi>Thankfulneſse?</hi> And let us return a <hi>Reall</hi> concreate
+<hi>Thankfulneſse,</hi> expreſſd in <hi>Action.</hi>
+            </p>
+            <p>We have often <hi>ſaid</hi> and <hi>profeſs'd,</hi> that <hi>Religion,</hi> as it is the
+<hi>chief,</hi> ſo it ought to be our <hi>firſt buſineſse;</hi> yet many other have gotten
+<hi>Precedence</hi> of it, we have hitherto made but a ſmall <hi>Progreſsion.</hi>
+            </p>
+            <p>Wherfore M. <hi>Speaker,</hi> let us not now ſlack to pro<g ref="char:EOLhyphen"/>ceed in it, with <hi>Sobriety,
+Wiſdome, Charity,</hi> untill wee have ſetled it in a <hi>ſolid grounded, peaceable</hi> way,
+ſutable to the <hi>quality,</hi> and <hi>importance</hi> of the <hi>Cauſe;</hi> when
+<hi>That</hi> is done, every <hi>thing</hi> elſe will be done the <hi>better,</hi> for it.</p>
+            <div type="part">
+               <head>Concerning ſit men to be choſen for the Aſsemblie.</head>
+               <p>
+                  <hi>Mr. Speaker,</hi> I am glad we are comming towards <hi>Religion,</hi> to bind up the looſe
+ſcattered <hi>Pieces</hi> of it in an <hi>Orderly regular</hi> Government.</p>
+               <pb facs="tcp:41105:3"/>
+               <p>The <hi>Maſter-piece</hi> of this great work will be the Election of fit <hi>Agents; wiſe,
+learned, unbyaſſ'd</hi> Men, ſuch as have ſhewed themſelves deſirous of
+<hi>Reformation,</hi> in the <hi>Government,</hi> in the <hi>Lyturgie,</hi> willing to remove
+whatſoever may offend or ſcruple weak and tender <hi>Conſciences.</hi> Men not
+<hi>hide-bound</hi> in their <hi>opinions,</hi> Lo<g ref="char:EOLhyphen"/>vers of <hi>Peace,</hi> more then of
+<hi>themſelves. Peace</hi> is <hi>Tran<g ref="char:EOLhyphen"/>quillitatis Ordo,</hi> and <hi>Order</hi> is the
+<hi>ſoul</hi> of outward <hi>things,</hi> it keeps them <hi>quiet</hi> and <hi>clear</hi> from
+<hi>juſling</hi> and <hi>interfeering</hi> one with another.</p>
+               <p>A man may bee a very <hi>good</hi> and <hi>able</hi> Paſtor of a <hi>Pariſh,</hi> a very
+<hi>learned</hi> and <hi>painfull</hi> Lecturer to a great <hi>Congregation,</hi> and yet not ſo
+fit for this <hi>active, exten<g ref="char:EOLhyphen"/>ſive</hi> Imployment. For, a man may be <hi>Learned</hi> with
+a<g ref="char:EOLhyphen"/>nother mans <hi>Learning,</hi> but he muſt be wiſe with his own <hi>Wiſdome.</hi> Therfore,
+they ſhould not be <hi>narrow, ſhady, ſpeculative</hi> men, but rather, men of <hi>large,
+ſober</hi> practicall <hi>underſtanding, prudent</hi> men. <hi>Prudence</hi> is, <hi>Re<g ref="char:EOLhyphen"/>rum
+Agibilium Ratio,</hi> the Reaſon and Rule of things which are to be <hi>Acted.</hi>
+               </p>
+               <p>Wherfore, <hi>M. Speaker,</hi> It behoves us to be exactly <hi>carefull,</hi> that we chuſe
+ſuch men as may give <hi>counte<g ref="char:EOLhyphen"/>nance</hi> and <hi>authority</hi> to the work, elſe we ſhall
+weaken and hazard the whole <hi>Frame.</hi> For mine own part, I will take no <hi>Exceptions</hi>
+againſt any, but leave them wholly upon the <hi>Conſciences</hi> and <hi>Judgments of their
+Chooſers.</hi>
+               </p>
+               <pb facs="tcp:41105:3"/>
+               <p>My humble <hi>Motion</hi> is, that after this <hi>long-deſired,</hi> and <hi>long-delayed
+Reformation,</hi> we may now <hi>all of us</hi> joyn as one <hi>Man,</hi> for the <hi>Peace</hi> of
+<hi>Jeruſalem,</hi> and the <hi>Iſrael</hi> of <hi>God;</hi> So ſhall we proſper, becauſe
+we love it.</p>
+            </div>
+         </div>
+         <div type="speech">
+            <head>The ſecond Speech, concerning a Weſt-Indy Aſsociation, at a Committee of the whole
+Houſe of Parliament.</head>
+            <opener>
+               <salute>Sir Dudley Digs,</salute>
+            </opener>
+            <p>I Do profeſſe, that as my <hi>Affection,</hi> my <hi>Reaſon,</hi> and my
+<hi>Judgment,</hi> go ſtrongly with the <hi>ſcope</hi> and <hi>drift</hi> of this
+Propoſition; ſo ſhall a good part of my <hi>poor fortune,</hi> when it comes to
+<hi>Execution.</hi>
+            </p>
+            <p>For to my <hi>underſtanding,</hi> there was never propoun<g ref="char:EOLhyphen"/>ded in <hi>Parliament,</hi> a
+<hi>deſign</hi> more proper for this Kingdom, nor of more pregnant <hi>advantage</hi> to it,
+whether we conſider the <hi>Nature</hi> of our <hi>ſituation,</hi> or the quality of our
+<hi>Enemies Forces.</hi>
+            </p>
+            <p>As we are an <hi>Jland,</hi> it concerns our very <hi>being</hi> to have ſtore of
+<hi>ſhips</hi> to defend us, and alſo our <hi>well-being</hi> by their <hi>Trade</hi> to enrich
+us.</p>
+            <p>This <hi>Aſsociation</hi> for the <hi>Weſt Indies,</hi> when it ſhall
+<pb facs="tcp:41105:4"/>be regulated and eſtabliſhed by <hi>Act</hi> of
+<hi>Parliament,</hi> and therby ſecured from the <hi>violence</hi> and <hi>injury</hi> of any
+intruding hand, it will certainly give many men <hi>encouragement</hi> and <hi>confidence,</hi>
+voluntarily to bring in large and liberall contributions, towards ſo <hi>noble,</hi> ſo
+<hi>profitable</hi> an <hi>Enterpriſe.</hi> So that in ſhort time, we ſhall ſee many new
+<hi>ſhips</hi> built, many brave men imployed, and enabled for the ſervice of their
+<hi>Country,</hi> none of this <hi>money</hi> ſhall be carried out of the <hi>Kingdome,</hi> but
+laid out for <hi>ſhipping,</hi> which is the <hi>defence</hi> of it, and beſtowed upon our own
+men, who muſt be fed and maintained, though they ſtay at <hi>home.</hi> For this, we ſhall
+reap the fruit of whatſoever benefit <hi>Plantation, Trafficke,</hi> or <hi>Purchaſe</hi> can
+procure us, beſides <hi>honour</hi> and <hi>ſecurity.</hi>
+            </p>
+            <p>Now, let us a little conſider the <hi>Enemy</hi> we are to encounter, the King of
+<hi>Spain.</hi> They are not his great <hi>Territories</hi> which make him ſo <hi>powerfull,</hi>
+and ſo troubleſome to all <hi>Chriſtendome.</hi> For it is very well known, that
+<hi>Spain</hi> it ſelf is but week in <hi>men,</hi> and barren of <hi>Naturall Commodities.</hi>
+As for his other <hi>Territories,</hi> they lye <hi>divided</hi> and <hi>aſunder,</hi> which is a
+<hi>weakneſſe</hi> in its ſelf; beſides they are held by <hi>force,</hi> and
+<hi>maintained</hi> at an extraordinary charge inſomuch, as although he be a great <hi>King,</hi>
+yet is he like the <hi>great Gyant,</hi> who was ſaid to have too <hi>hands,</hi> but he
+<pb facs="tcp:41105:4"/>had 50 <hi>bellies</hi> to feed, ſo that ratably, he
+had no more hands then another <hi>man.</hi>
+            </p>
+            <p>No Sir, they are his <hi>Mines</hi> in the <hi>Weſt Jndies,</hi> which miniſter
+<hi>fuell</hi> to feed his vaſt ambitious <hi>de<g ref="char:EOLhyphen"/>ſire</hi> of univerſall <hi>Monarchy:</hi>
+It is the <hi>money</hi> he hath from thence, which makes him able to <hi>levie,</hi> and <hi>pay
+Souldiers</hi> in all <hi>places;</hi> and to keep an Army conti<g ref="char:EOLhyphen"/>nually on foot, ready to
+<hi>invade</hi> and <hi>endanger</hi> his Neighbours.</p>
+            <p>So that we have no other way, but to endeavour to <hi>cut</hi> him up at <hi>root,</hi> and
+ſeek to <hi>impeach,</hi> or to <hi>ſup<g ref="char:EOLhyphen"/>plant</hi> him in the <hi>Weſt Jndies.</hi> By part
+of which courſe, that <hi>famous Queen of moſt glorious memory,</hi> had heretofore almoſt
+brought him on his knees. And this our undertaking <hi>(if it pleaſe God to bleſſe it)</hi>
+muſt needs effect it ſooner and quicker: the <hi>whole body</hi> of the <hi>Kingdome</hi> being
+<hi>united</hi> and <hi>concurring</hi> in a perpetuall ſupply to this <hi>action,</hi> ſo that
+he will have no <hi>free time</hi> given him to <hi>reſt.</hi>
+            </p>
+            <p>Moreover, this will be a means not only to <hi>ſave</hi> but to <hi>fill</hi> His Majeſties
+Coffers, enabling the <hi>people</hi> to give him <hi>liberally,</hi> and <hi>often;</hi> the
+<hi>Kings ſhips</hi> will have little to do, but to <hi>guard</hi> the <hi>Coaſts,</hi> for the
+<hi>Sea-war</hi> will chiefly be made at the <hi>charge</hi> of the <hi>ſubiect.</hi>
+            </p>
+            <p>Thus, (Sir <hi>Dudley Digs</hi>) I doubt not but that in ſhort time, both <hi>King</hi> and
+<hi>people</hi> ſhall be <hi>ſafe</hi> at <hi>home,</hi> and <hi>feared abroad.</hi>
+            </p>
+            <pb facs="tcp:41105:5"/>
+            <p>To conclude, I ſhall be very <hi>glad</hi> to hear any man make <hi>Objections</hi> againſt
+this <hi>Deſigne,</hi> ſo that he do it with an intention to <hi>refine</hi> and
+<hi>perfect</hi> the work; but if any ſhall ſpeak <hi>againſt</hi> it with a mind to
+<hi>hinder</hi> and <hi>deſtroy</hi> it, I muſt intreat him to <hi>pardon</hi> me, if I do
+ſcarce think him to be a good <hi>Engliſh-man.</hi>
+            </p>
+            <trailer>FJNJS.</trailer>
+            <pb facs="tcp:41105:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
